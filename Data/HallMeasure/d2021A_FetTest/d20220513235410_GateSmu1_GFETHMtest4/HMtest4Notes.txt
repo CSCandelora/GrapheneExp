@@ -1,0 +1,8 @@
+Start time: 13-May-2022 23:54:03
+S10 #7
+4 probe #2
+
+V_SD = 3:NaN:3
+V_G = 10:0.25:40
+Trying new code more robustly. From 0.100T to 0.500T in even steps of 0.100T.
+Data still looks great. I want to run this whole setup again with more spaced out gate voltages.

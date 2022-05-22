@@ -1,0 +1,8 @@
+Start time: 18-May-2022 18:26:06
+S10 #7
+4 probe #2
+
+V_SD = 0.2:0:0.2
+V_G = 23.75:NaN:23.75
+~0.040T to ~0.099T in steps of ~0.001T. 0GHz and 13GHz at 15dBm
+They exhibit fairly similar behavior. Still no great resonance peak. Going to try again tomorrow maybe. Need to write.

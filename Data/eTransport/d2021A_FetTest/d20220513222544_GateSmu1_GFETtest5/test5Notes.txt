@@ -1,0 +1,8 @@
+Start time: 13-May-2022 22:25:42
+S10 #7
+4 probe #2
+
+V_SD = -0.2:0.02:0.2
+V_G = 10:0.25:40
+5e-5 Torr. Running control for mobility after being away all day
+Peak definitely shows signs of hysterisis. Nonetheless, going ahead with mobility test.
